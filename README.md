@@ -13,7 +13,7 @@ Commercial-grade static web app for urban street tree ecosystem value assessment
 
 ## Deployment
 
-The site deploys through GitHub Pages from the `main` branch using `.github/workflows/pages.yml`.
+The site is published with GitHub Pages from the `gh-pages` branch root.
 
 Expected public URL:
 
